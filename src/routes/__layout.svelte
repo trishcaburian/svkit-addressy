@@ -5,4 +5,5 @@
         <div class="sidebar" on:click={() => (window.location.href = "/add_contact")}> Add </div>
     </div>
 </nav>
-<slot></slot>
+
+<slot/>
